@@ -1,0 +1,36 @@
+﻿  context.c
+  egl_context.c
+  init.c
+  input.c
+  monitor.c
+  osmesa_context.c
+  vulkan.c
+  wgl_context.c
+  win32_init.c
+  win32_joystick.c
+  win32_monitor.c
+  win32_thread.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: 產生 'defined' 的巨集展開中有未定義的行為 (正在編譯原始程式檔 C:\Users\ERIC\Desktop\大四下\電腦動畫與特效\HW3\hw3\extern\glfw\src\init.c)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: 產生 'defined' 的巨集展開中有未定義的行為 (正在編譯原始程式檔 C:\Users\ERIC\Desktop\大四下\電腦動畫與特效\HW3\hw3\extern\glfw\src\input.c)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: 產生 'defined' 的巨集展開中有未定義的行為 (正在編譯原始程式檔 C:\Users\ERIC\Desktop\大四下\電腦動畫與特效\HW3\hw3\extern\glfw\src\vulkan.c)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: 產生 'defined' 的巨集展開中有未定義的行為 (正在編譯原始程式檔 C:\Users\ERIC\Desktop\大四下\電腦動畫與特效\HW3\hw3\extern\glfw\src\win32_monitor.c)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: 產生 'defined' 的巨集展開中有未定義的行為 (正在編譯原始程式檔 C:\Users\ERIC\Desktop\大四下\電腦動畫與特效\HW3\hw3\extern\glfw\src\egl_context.c)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: 產生 'defined' 的巨集展開中有未定義的行為 (正在編譯原始程式檔 C:\Users\ERIC\Desktop\大四下\電腦動畫與特效\HW3\hw3\extern\glfw\src\win32_joystick.c)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: 產生 'defined' 的巨集展開中有未定義的行為 (正在編譯原始程式檔 C:\Users\ERIC\Desktop\大四下\電腦動畫與特效\HW3\hw3\extern\glfw\src\wgl_context.c)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: 產生 'defined' 的巨集展開中有未定義的行為 (正在編譯原始程式檔 C:\Users\ERIC\Desktop\大四下\電腦動畫與特效\HW3\hw3\extern\glfw\src\osmesa_context.c)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: 產生 'defined' 的巨集展開中有未定義的行為 (正在編譯原始程式檔 C:\Users\ERIC\Desktop\大四下\電腦動畫與特效\HW3\hw3\extern\glfw\src\monitor.c)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: 產生 'defined' 的巨集展開中有未定義的行為 (正在編譯原始程式檔 C:\Users\ERIC\Desktop\大四下\電腦動畫與特效\HW3\hw3\extern\glfw\src\context.c)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: 產生 'defined' 的巨集展開中有未定義的行為 (正在編譯原始程式檔 C:\Users\ERIC\Desktop\大四下\電腦動畫與特效\HW3\hw3\extern\glfw\src\win32_thread.c)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: 產生 'defined' 的巨集展開中有未定義的行為 (正在編譯原始程式檔 C:\Users\ERIC\Desktop\大四下\電腦動畫與特效\HW3\hw3\extern\glfw\src\win32_init.c)
+  win32_time.c
+  win32_window.c
+  window.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: 產生 'defined' 的巨集展開中有未定義的行為 (正在編譯原始程式檔 C:\Users\ERIC\Desktop\大四下\電腦動畫與特效\HW3\hw3\extern\glfw\src\window.c)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: 產生 'defined' 的巨集展開中有未定義的行為 (正在編譯原始程式檔 C:\Users\ERIC\Desktop\大四下\電腦動畫與特效\HW3\hw3\extern\glfw\src\win32_window.c)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: 產生 'defined' 的巨集展開中有未定義的行為 (正在編譯原始程式檔 C:\Users\ERIC\Desktop\大四下\電腦動畫與特效\HW3\hw3\extern\glfw\src\win32_time.c)
+     正在建立程式庫 C:\Users\ERIC\Desktop\大四下\電腦動畫與特效\HW3\hw3\lib\glfw3dll.lib 和物件 C:\Users\ERIC\Desktop\大四下\電腦動畫與特效\HW3\hw3\lib\glfw3dll.exp
+  正在產生程式碼
+  Previous IPDB not found, fall back to full compilation.
+  All 348 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  glfw.vcxproj -> C:\Users\ERIC\Desktop\大四下\電腦動畫與特效\HW3\hw3\bin\glfw3.dll

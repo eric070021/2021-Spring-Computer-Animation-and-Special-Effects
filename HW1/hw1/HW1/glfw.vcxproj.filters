@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="來源檔案">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="標頭檔">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="資源檔">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="$(SolutionDir)extern\glfw\src\window.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="$(SolutionDir)extern\glfw\src\context.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="$(SolutionDir)extern\glfw\src\egl_context.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="$(SolutionDir)extern\glfw\src\init.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="$(SolutionDir)extern\glfw\src\input.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="$(SolutionDir)extern\glfw\src\monitor.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="$(SolutionDir)extern\glfw\src\osmesa_context.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="$(SolutionDir)extern\glfw\src\vulkan.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="$(SolutionDir)extern\glfw\src\wgl_context.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="$(SolutionDir)extern\glfw\src\win32_init.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="$(SolutionDir)extern\glfw\src\win32_joystick.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="$(SolutionDir)extern\glfw\src\win32_monitor.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="$(SolutionDir)extern\glfw\src\win32_thread.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="$(SolutionDir)extern\glfw\src\win32_time.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="$(SolutionDir)extern\glfw\src\win32_window.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="$(SolutionDir)extern\glfw\src\internal.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="$(SolutionDir)extern\glfw\src\mappings.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="$(SolutionDir)extern\glfw\src\null_joystick.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="$(SolutionDir)extern\glfw\src\null_platform.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="$(SolutionDir)extern\glfw\src\platform.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="$(SolutionDir)extern\glfw\src\win32_joystick.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="$(SolutionDir)extern\glfw\src\win32_platform.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="$(SolutionDir)extern\glfw\src\win32_thread.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="$(SolutionDir)extern\glfw\src\win32_time.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="$(SolutionDir)extern\glfw\include\GLFW\glfw3.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="$(SolutionDir)extern\glfw\include\GLFW\glfw3native.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
